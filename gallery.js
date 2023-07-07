@@ -120,7 +120,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
             owl.owlCarousel({
                 items: 1,
                 nav: true,
-                loop: true,
+                loop: false,
             });
         });
     });
